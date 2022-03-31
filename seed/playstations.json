@@ -1,0 +1,45 @@
+[{
+  "name": "PS",
+  "year": 1995,
+  "generation": "Fifth",
+  "games": 7918,
+  "popularGame": "Gran Turismo",
+  "backwardCompatibility": false,
+  "unitsSold": 1024900000
+},
+{
+  "name": "PS2",
+  "year": 2000,
+  "generation": "Sixth",
+  "games": 3800,
+  "popularGame": "GTA: San Andreas",
+  "backwardCompatibility": true,
+  "unitsSold": 1576800000
+},
+{
+  "name": "PS3",
+  "year": 2006,
+  "generation": "Seventh",
+  "games": 2543,
+  "popularGame": "GTA V",
+  "backwardCompatibility": true,
+  "unitsSold": 874100000
+},
+{
+  "name": "PS4",
+  "year": 2013,
+  "generation": "Eighth",
+  "games": 3364,
+  "popularGame": "TBA",
+  "backwardCompatibility": true,
+  "unitsSold": 116900000
+},
+{
+  "name": "PS5",
+  "year": 2020,
+  "generation": "Ninth",
+  "games": 462,
+  "popularGame": "TBA",
+  "backwardCompatibility": true,
+  "unitsSold": 17300000
+}]
