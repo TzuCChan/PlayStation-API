@@ -5,7 +5,8 @@
   "games": 7918,
   "popularGame": "Gran Turismo",
   "backwardCompatibility": false,
-  "unitsSold": 1024900000
+  "unitsSold": 1024900000,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/PlayStation-SCPH-1000-with-Controller.jpg"
 },
 {
   "name": "PS2",
@@ -14,7 +15,9 @@
   "games": 3800,
   "popularGame": "GTA: San Andreas",
   "backwardCompatibility": true,
-  "unitsSold": 1576800000
+  "unitsSold": 1576800000,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/PS2-Versions.jpg"
+  
 },
 {
   "name": "PS3",
@@ -23,7 +26,8 @@
   "games": 2543,
   "popularGame": "GTA V",
   "backwardCompatibility": true,
-  "unitsSold": 874100000
+  "unitsSold": 874100000,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/PS3-Consoles-Set.jpg"
 },
 {
   "name": "PS4",
@@ -32,7 +36,8 @@
   "games": 3364,
   "popularGame": "TBA",
   "backwardCompatibility": true,
-  "unitsSold": 116900000
+  "unitsSold": 116900000,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PS4-Console-wDS4.jpg"
 },
 {
   "name": "PS5",
@@ -41,5 +46,6 @@
   "games": 462,
   "popularGame": "TBA",
   "backwardCompatibility": true,
-  "unitsSold": 17300000
+  "unitsSold": 17300000,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png"
 }]

@@ -8,7 +8,8 @@ let Playstation = new Schema({
   games: Number,
   popularGame: String,
   backwardCompatibility: Boolean,
-  unitsSold: Number
+  unitsSold: Number,
+  image: String
 })
 
 export default mongoose.model("playstations", Playstation)
